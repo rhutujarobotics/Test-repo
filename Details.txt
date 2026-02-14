@@ -1,0 +1,5 @@
+Name: K. Prem Kiran
+Role/Domain: Intern
+Interests: Software development and AIML 
+Difficulties faced during the test and the preparation: During the test, it was hard to understand if i should be creating a folder in my system as i would do normally. It was also difficult to understand if i have to merge my local repository with remote repository. It was hard to understand few commands and different signatures of some specific commands. 
+ 
